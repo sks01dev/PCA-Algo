@@ -1,1 +1,3 @@
-# PCA-Algo
+# PCA Algorithm
+
+## Credits: Andrew Ng
